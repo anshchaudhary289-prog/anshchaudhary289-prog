@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ansh%20Chaudhary&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20%7C%20Final%20Year%20B.Tech%20CSE&descAlignY=58&descSize=19&descColor=ffffff" width="100%"/>
+<img src="./assets/banner.svg" width="100%" alt="Ansh Chaudhary - Cloud and DevOps"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+CSE+%40+MIET+Meerut;Cloud+%26+DevOps+Engineer+in+the+making;AWS+Academy+Graduate+%E2%80%94+Cloud+Architecting;First+Author+%E2%80%94+StockFlow+Research+Paper" alt="Typing intro"/>
 
@@ -92,6 +92,6 @@ I build small, real systems end to end — from a FastAPI service and its Docker
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
 
 </div>

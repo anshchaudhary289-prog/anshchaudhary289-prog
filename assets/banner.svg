@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="45%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#7B61FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <circle cx="1060" cy="40" r="120" fill="#36BCF7" opacity="0.12"/>
+  <circle cx="90" cy="240" r="90" fill="#7B61FF" opacity="0.12"/>
+  <path d="M0,215 C200,165 400,255 600,215 C800,175 1000,245 1200,205 L1200,280 L0,280 Z" fill="#36BCF7" opacity="0.18"/>
+  <path d="M0,240 C220,200 420,270 640,240 C860,210 1020,260 1200,235 L1200,280 L0,280 Z" fill="#7B61FF" opacity="0.20"/>
+  <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="62" font-weight="700" fill="#ffffff">Ansh Chaudhary</text>
+  <rect x="480" y="140" width="240" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="600" y="188" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="27" fill="#CFE8FF">Cloud &amp; DevOps | Final Year B.Tech CSE</text>
+  <text x="600" y="226" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="19" fill="#9FB8CC">AWS Academy Graduate - Cloud Architecting</text>
+</svg>
