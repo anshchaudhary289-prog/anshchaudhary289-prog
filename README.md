@@ -33,9 +33,21 @@ I build small, real systems end to end — from a FastAPI service and its Docker
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=anshchaudhary289-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshchaudhary289-prog&layout=compact&theme=tokyonight" alt="Top languages"/>
 
+<img src="https://streak-stats.demolab.com?user=anshchaudhary289-prog&theme=tokyonight" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anshchaudhary289-prog&theme=tokyonight&no-frame=true&row=1" alt="GitHub trophies"/>
+
 </div>
 
 ## Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,aws,docker,terraform,githubactions,prometheus,git,github,linux,mongodb,fastapi,html,css,js,vscode,bash&theme=dark" alt="Skill icons"/>
+
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
@@ -77,3 +89,9 @@ I build small, real systems end to end — from a FastAPI service and its Docker
 
 - LinkedIn: https://www.linkedin.com/in/ansh-chaudhary-cse
 - GitHub: https://github.com/anshchaudhary289-prog
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
+
+</div>
