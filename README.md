@@ -1,12 +1,39 @@
-# Hi, I'm Ansh Chaudhary
+<div align="center">
 
-**Final Year B.Tech CSE @ MIET Meerut (AKTU) · Cloud & DevOps · AWS Academy Graduate – Cloud Architecting**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ansh%20Chaudhary&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20%7C%20Final%20Year%20B.Tech%20CSE&descAlignY=58&descSize=19&descColor=ffffff" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+CSE+%40+MIET+Meerut;Cloud+%26+DevOps+Engineer+in+the+making;AWS+Academy+Graduate+%E2%80%94+Cloud+Architecting;First+Author+%E2%80%94+StockFlow+Research+Paper" alt="Typing intro"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=anshchaudhary289-prog&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/ansh-chaudhary-cse"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.credly.com/users/ansh-chaudhary.7e8182e3"><img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?logo=credly&logoColor=white" alt="Credly"/></a>
+
+</div>
+
+## About me
+
+```python
+class AnshChaudhary:
+    role       = "Final Year B.Tech CSE @ MIET Meerut (AKTU)"
+    focus      = ["Cloud", "DevOps", "Backend"]
+    building   = "CloudOps Pulse — monitoring API + Docker + Terraform + CI/CD"
+    learning   = ["Docker", "GitHub Actions", "Terraform", "Prometheus"]
+    looking_for = "Cloud / DevOps internships (joining after 7th-sem exams)"
+    location   = "Meerut, India"
+```
 
 I build small, real systems end to end — from a FastAPI service and its Docker image to the CI pipeline that tests it and the Terraform that puts it on AWS. My final-year group project, **StockFlow**, is also my first research paper, where I am first author.
 
-- Currently learning: **DevOps in depth** — Docker, GitHub Actions CI/CD, Terraform, monitoring (Prometheus)
-- Looking for: Cloud / DevOps internships (joining after my 7th-semester exams)
-- Based in: Meerut, India
+## GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anshchaudhary289-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshchaudhary289-prog&layout=compact&theme=tokyonight" alt="Top languages"/>
+
+</div>
 
 ## Skills
 
@@ -31,7 +58,7 @@ I build small, real systems end to end — from a FastAPI service and its Docker
 
 | Project | What it is |
 |---|---|
-| [CloudOps Pulse](https://github.com/anshchaudhary289-prog/cloudops-pulse) | Production-style uptime/health monitoring API — FastAPI + Docker + GitHub Actions CI/CD + Prometheus metrics & alerts + Terraform for AWS EC2/S3 |
+| [CloudOps Pulse](https://github.com/anshchaudhary289-prog/Cloudops-Pulse) | Production-style uptime/health monitoring API — FastAPI + Docker + GitHub Actions CI/CD + Prometheus metrics & alerts + Terraform for AWS EC2/S3 |
 | [DairyTrack](https://github.com/anshchaudhary289-prog/DairyTrack) | Offline-first PWA for daily buffalo-milk sales records — morning/evening entries, per-customer rates, monthly accounts. **Live:** https://anshchaudhary289-prog.github.io/DairyTrack/ |
 | [StockFlow](https://github.com/anshchaudhary289-prog/StockFlow) | AI-assisted invoice extraction & inventory automation for SME ERPs (GSTIN validation + risk scoring). Team Auto-Stack group project — I am first author of the research paper and lead the documentation, testing and ongoing development in my working copy |
 | [FilterGuard](https://github.com/anshchaudhary289-prog/atomquest-filterguard) | Software-only predictive monitoring for water-purifier filter failure, built for Atomberg atomQUEST 2026 (Track 2) with Team Code&Design — gradient-boosting model estimates failure risk within the next seven days from synthetic TDS/flow/pressure trends |
