@@ -30,14 +30,11 @@ I build small, real systems end to end — from a FastAPI service and its Docker
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anshchaudhary289-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshchaudhary289-prog&layout=compact&theme=tokyonight" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=anshchaudhary289-prog&theme=tokyonight" alt="GitHub streak"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=anshchaudhary289-prog&theme=tokyonight&no-frame=true&row=1" alt="GitHub trophies"/>
+<img src="./assets/languages.svg" width="88%" alt="Languages across my projects"/>
 
 </div>
 
