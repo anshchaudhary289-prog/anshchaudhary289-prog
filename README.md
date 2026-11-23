@@ -8,7 +8,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=anshchaudhary289-prog&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 <a href="https://www.linkedin.com/in/ansh-chaudhary-cse"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/AnshChaudhary289"><img src="https://img.shields.io/badge/LeetCode-63%20solved-FFA116?logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 <a href="https://www.credly.com/users/ansh-chaudhary.7e8182e3"><img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?logo=credly&logoColor=white" alt="Credly"/></a>
+<a href="mailto:anshchaudhary280@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -16,15 +18,18 @@
 
 ```python
 class AnshChaudhary:
-    role       = "Final Year B.Tech CSE @ MIET Meerut (AKTU)"
-    focus      = ["Cloud", "DevOps", "Backend"]
-    building   = "CloudOps Pulse — monitoring API + Docker + Terraform + CI/CD"
-    learning   = ["Docker", "GitHub Actions", "Terraform", "Prometheus"]
-    looking_for = "Cloud / DevOps internships (joining after 7th-sem exams)"
-    location   = "Meerut, India"
+    role        = "Final Year B.Tech CSE @ MIET Meerut (AKTU)"
+    focus       = ["Cloud", "DevOps", "Backend"]
+    building    = "CloudOps Pulse — monitoring API + Docker + K8s + Terraform + CI/CD"
+    learning    = ["Kubernetes", "GitHub Actions", "Prometheus", "Linux"]
+    leetcode    = "63 solved (40 Easy · 22 Medium · 1 Hard) — daily streak practice"
+    looking_for = "Cloud / DevOps internships (joining Jan 2027)"
+    location    = "Meerut, India"
 ```
 
 I build small, real systems end to end — from a FastAPI service and its Docker image to the CI pipeline that tests it and the Terraform that puts it on AWS. My final-year group project, **StockFlow**, is also my first research paper, where I am first author.
+
+🔭 **Currently:** shipping CloudOps Pulse (21 commits, 20 passing tests) · 🌱 On a structured DevOps learning track · 🎯 Target: a Cloud/DevOps internship starting Jan 2027
 
 ## GitHub stats
 
@@ -35,6 +40,14 @@ I build small, real systems end to end — from a FastAPI service and its Docker
 <br/>
 
 <img src="./assets/languages.svg" width="88%" alt="Languages across my projects"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshchaudhary289-prog/anshchaudhary289-prog/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshchaudhary289-prog/anshchaudhary289-prog/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/anshchaudhary289-prog/anshchaudhary289-prog/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -67,12 +80,12 @@ I build small, real systems end to end — from a FastAPI service and its Docker
 
 | Project | What it is |
 |---|---|
-| [CloudOps Pulse](https://github.com/anshchaudhary289-prog/Cloudops-Pulse) | Production-style uptime/health monitoring API — FastAPI + Docker + GitHub Actions CI/CD + Prometheus metrics & alerts + Terraform for AWS EC2/S3 |
+| [CloudOps Pulse](https://github.com/anshchaudhary289-prog/Cloudops-Pulse) | Production-style uptime/health monitoring API — FastAPI + Docker + Kubernetes manifests + Grafana dashboard + GitHub Actions CI/CD (20 pytest tests) + Prometheus metrics & alerts + Terraform for AWS EC2/S3 |
 | [DairyTrack](https://github.com/anshchaudhary289-prog/DairyTrack) | Offline-first PWA for daily buffalo-milk sales records — morning/evening entries, per-customer rates, monthly accounts. **Live:** https://anshchaudhary289-prog.github.io/DairyTrack/ |
 | [StockFlow](https://github.com/anshchaudhary289-prog/StockFlow) | AI-assisted invoice extraction & inventory automation for SME ERPs (GSTIN validation + risk scoring). Team Auto-Stack group project — I am first author of the research paper and lead the documentation, testing and ongoing development in my working copy |
 | [FilterGuard](https://github.com/anshchaudhary289-prog/atomquest-filterguard) | Software-only predictive monitoring for water-purifier filter failure, built for Atomberg atomQUEST 2026 (Track 2) with Team Code&Design — gradient-boosting model estimates failure risk within the next seven days from synthetic TDS/flow/pressure trends |
 | [TaskFlow Pro](https://github.com/anshchaudhary289-prog/taskflow-pro) | DAG-based, dependency-aware Kanban engine — tasks unblock automatically when their dependencies complete |
-| [AWS S3 Portfolio](https://github.com/anshchaudhary289-prog/aws-s3-portfolio) · [EC2 Web Server](https://github.com/anshchaudhary289-prog/aws-ec2-webserver) | My first hands-on AWS builds — a portfolio site on S3 static hosting, and a Linux web server on EC2 with security groups & SSH |
+| [AWS S3 Portfolio](https://github.com/anshchaudhary289-prog/aws-s3-portfolio) · [EC2 Web Server](https://github.com/anshchaudhary289-prog/aws-ec2-webserver) | My first hands-on AWS builds — a redesigned portfolio site on S3 static hosting (projects, skills & certifications), and a Linux web server on EC2 with security groups & SSH |
 
 ## Certifications
 
@@ -81,6 +94,7 @@ I build small, real systems end to end — from a FastAPI service and its Docker
 - **EY + Microsoft AI Skills Passport** — completed
 - **Cisco Introduction to Cybersecurity**
 - **NIIT Foundation CyberOps & Professional Edge**
+- **UiPath Automation Developer Associate** — training diploma (ICT Academy)
 
 ## Contact
 
